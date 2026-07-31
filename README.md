@@ -34,4 +34,4 @@ A: It is compatible with both desktops and laptops, but ensure your device has a
 
 ## Download
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
